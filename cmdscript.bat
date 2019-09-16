@@ -17,3 +17,4 @@ C:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe C:\Hyper-V-Backup.ps1 
 ::endlocal
 ::exit /b 0
 
+C:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe C:\CheckBackup.ps1
